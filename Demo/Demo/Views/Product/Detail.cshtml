@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Product Detail";
+}
+@model List<Demo.Models.Product>
+
+        @foreach (var pro in Model)
+        {
+            <div>
+                <img src="@pro.ImageUrl" alt="" class="image" style="padding: 0px; height: 300px; width: 300px;"/>
+                <div class="info" style="width: 50%; top: 15px; right:15px" >
+                    <h1> @pro.Name </h1>
+                    <h2>Price : <strong> @pro.Price </strong>  </h2>
+                    <h2>Ptional dismiss button in tional dismiss button in   </h2>
+
+                    <p><a asp-route="addcart" asp-route-productid="@pro.Id" class="btn btn-success">Add to cart</a></p>
+
+
+                </div>
+            </div>
+            <table  class="table">
+                <tr>
+                    <th>Cân nặng xe</th>
+                    <th>400kg</th>
+                </tr>
+                <tr>
+                    <th>Kích thước xe</th>
+                    <th>1m3</th>
+                </tr>
+                <tr>
+                    <th>Công suất</th>
+                    <th>
+                        150km/h
+                    </th>
+                </tr>
+            </table>
+        }

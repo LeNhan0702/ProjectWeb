@@ -1,0 +1,545 @@
+﻿++Solution 'Demo' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Demo.sln
+++Demo
+i:{00000000-0000-0000-0000-000000000000}:Demo
+++Connected Services 
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:>1609
+++Dependencies
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:>1608
+++Properties
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\properties\
+++wwwroot
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\
+++css
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\css\
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\dist\css\
+++bootstrap.css
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\css\bootstrap.css
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++custom.css
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\css\custom.css
+++etalage.css
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\css\etalage.css
+++form.css
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\css\form.css
+++site.css
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\css\site.css
+++style.css
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\css\style.css
+++images
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\
+++js
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\js\
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\
+++favicon.ico
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\favicon.ico
+++Areas
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\areas\
+++Controllers
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\controllers\
+++HomeController.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\controllers\homecontroller.cs
+++ProductController.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\controllers\productcontroller.cs
+++UserController.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\controllers\usercontroller.cs
+++Migrations
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\migrations\
+++20211118004341_IdentityContextSchema.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\migrations\20211118004341_identitycontextschema.cs
+++20211118004341_IdentityContextSchema.Designer.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\migrations\20211118004341_identitycontextschema.designer.cs
+++IdentityContextModelSnapshot.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\migrations\identitycontextmodelsnapshot.cs
+++Models
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\models\
+++Category.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\models\category.cs
+++Customer.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\models\customer.cs
+++ErrorViewModel.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\models\errorviewmodel.cs
+++LoginModel.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\models\loginmodel.cs
+++NhanContext.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\models\nhancontext.cs
+++Order.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\models\order.cs
+++OrderDetail.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\models\orderdetail.cs
+++Product.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\models\product.cs
+++RegisterModel.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\models\registermodel.cs
+++ViewComponents
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\viewcomponents\
+++CatergoryListViewComponent.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\viewcomponents\catergorylistviewcomponent.cs
+++Views
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\
+++Home
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\home\
+++Index.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\home\index.cshtml
+++Privacy.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\home\privacy.cshtml
+++Product
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\product\
+++Cart.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\product\cart.cshtml
+++Detail.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\product\detail.cshtml
+++list.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\product\list.cshtml
+++Shared
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\shared\
+++Components
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\shared\components\
+++CatergoryList
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\shared\components\catergorylist\
+++Default.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\shared\components\catergorylist\default.cshtml
+++_Layout.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\shared\_layout.cshtml
+++_LayoutCartPartial.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\shared\_layoutcartpartial.cshtml
+++_LoginPartial.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\shared\_loginpartial.cshtml
+++_Mainlayout.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\shared\_mainlayout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\shared\_validationscriptspartial.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\areas\identity\pages\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\shared\error.cshtml
+++User
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\user\
+++Login.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\user\login.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\areas\identity\pages\account\login.cshtml
+++Logout.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\user\logout.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\areas\identity\pages\account\logout.cshtml
+++Register.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\user\register.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\areas\identity\pages\account\register.cshtml
+++RegisterConfirmation.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\user\registerconfirmation.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\areas\identity\pages\account\registerconfirmation.cshtml
+++_ViewImports.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\_viewimports.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\areas\identity\pages\_viewimports.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\areas\identity\pages\account\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\views\_viewstart.cshtml
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\areas\identity\pages\_viewstart.cshtml
+++appsettings.json
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\appsettings.json
+++Program.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\program.cs
+++ScaffoldingReadMe.txt
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\scaffoldingreadme.txt
+++Startup.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\startup.cs
+++SQL Server Express LocalDB (Local) (ConnectionStrings:IdentityContextConnection)
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:>1633
+++Analyzers
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:analyzers
+++Frameworks
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:frameworks
+++Packages
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:packages
+++launchSettings.json
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\properties\launchsettings.json
+++serviceDependencies.json
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\properties\servicedependencies.json
+++1.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\1.jpg
+++1299.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\1299.jpg
+++2.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\2.jpg
+++3.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\3.jpg
+++4.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\4.jpg
+++5.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\5.jpg
+++6.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\6.jpg
+++7.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\7.jpg
+++959.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\959.jpg
+++ab.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\ab.jpg
+++amigo.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\amigo.jpg
+++angel.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\angel.jpg
+++arrow1.png
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\arrow1.png
+++arrow2.png
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\arrow2.png
+++a-star.png
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\a-star.png
+++attila.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\attila.jpg
+++avatar.png
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\avatar.png
+++ba.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\ba.jpg
+++baa.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\baa.jpg
+++bag.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\bag.jpg
+++bag1.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\bag1.jpg
+++b-arrow.png
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\b-arrow.png
+++bo.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\bo.jpg
+++bott.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\bott.jpg
+++bottle.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\bottle.jpg
+++breakout.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\breakout.jpg
+++cf.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\cf.jpg
+++ch.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\ch.jpg
+++classic.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\classic.jpg
+++ducati1260s.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\ducati1260s.jpg
+++elegant.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\elegant.jpg
+++elite.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\elite.jpg
+++Ex.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\ex.jpg
+++facebook.png
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\facebook.png
+++fatboy.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\fatboy.jpg
+++galaxy.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\galaxy.jpg
+++gixxer.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\gixxer.jpg
+++gpluse.png
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\gpluse.png
+++grande.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\grande.jpg
+++gsx.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\gsx.jpg
+++husky.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\husky.jpg
+++hypermotard.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\hypermotard.jpg
+++icon.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\icon.jpg
+++img-sprite.png
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\img-sprite.png
+++iron.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\iron.jpg
+++janus.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\janus.jpg
+++jupiter.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\jupiter.jpg
+++label_new.png
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\label_new.png
+++liberty.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\liberty.jpg
+++logo.png
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\logo.png
+++monster797.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\monster797.jpg
+++monster821.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\monster821.jpg
+++mt.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\mt.jpg
+++mul.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\mul.jpg
+++ninja650.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\ninja650.jpg
+++nvx.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\nvx.jpg
+++pi.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\pi.jpg
+++pi1.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\pi1.jpg
+++pi2.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\pi2.jpg
+++pi3.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\pi3.jpg
+++pi4.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\pi4.jpg
+++pic.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\pic.jpg
+++pic1.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\pic1.jpg
+++pic10.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\pic10.jpg
+++pic11.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\pic11.jpg
+++pic12.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\pic12.jpg
+++pic13.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\pic13.jpg
+++pic2.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\pic2.jpg
+++pic3.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\pic3.jpg
+++pic4.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\pic4.jpg
+++pic5.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\pic5.jpg
+++pic6.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\pic6.jpg
+++pic7.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\pic7.jpg
+++pic8.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\pic8.jpg
+++raider.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\raider.jpg
+++review.png
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\review.png
+++roadster.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\roadster.jpg
+++rod.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\rod.jpg
+++rss.png
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\rss.png
+++s1.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\s1.jpg
+++s2.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\s2.jpg
+++s3.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\s3.jpg
+++s4.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\s4.jpg
+++satria.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\satria.jpg
+++SH.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\sh.jpg
+++shark.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\shark.jpg
+++si1.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\si1.jpg
+++si2.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\si2.jpg
+++si3.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\si3.jpg
+++si4.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\si4.jpg
+++sirius.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\sirius.jpg
+++ss.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\ss.jpg
+++star.png
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\star.png
+++street.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\street.jpg
+++tfx.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\tfx.jpg
+++Thumbs.db
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\thumbs.db
+++tick1.png
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\tick1.png
+++twitter.png
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\twitter.png
+++V1.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\v1.jpg
+++vario.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\vario.jpg
+++venus.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\venus.jpg
+++versys.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\versys.jpg
+++Vision.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\vision.jpg
+++vstrom.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\vstrom.jpg
+++vulcan.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\vulcan.jpg
+++w175.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\w175.jpg
+++w175se.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\w175se.jpg
+++wa.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\wa.jpg
+++wat.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\wat.jpg
+++Wave.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\wave.jpg
+++winnerv1.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\winnerv1.jpg
+++winnerX.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\winnerx.jpg
+++xdiavels.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\xdiavels.jpg
+++z1000r.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\z1000r.jpg
+++z650.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\z650.jpg
+++z900.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\z900.jpg
+++z900abs.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\z900abs.jpg
+++zoom.png
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\zoom.png
+++zx10r.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\zx10r.jpg
+++zx25r.jpg
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\images\zx25r.jpg
+++jquery.etalage.min.js
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\js\jquery.etalage.min.js
+++jquery.flexisel.js
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\js\jquery.flexisel.js
+++jquery.min.js
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\js\jquery.min.js
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\jquery\dist\jquery.min.js
+++jquery.wmuSlider.js
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\js\jquery.wmuslider.js
+++site.js
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\js\site.js
+++bootstrap
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\
+++jquery
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\jquery\
+++jquery-validation
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\jquery-validation-unobtrusive\
+++Identity
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\areas\identity\
+++appsettings.Development.json
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.12\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\microsoft.netcore.app
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (5.0.12)
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:>1627
+++Microsoft.AspNetCore.Identity.UI (5.0.12)
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:>1631
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (5.0.10)
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:>1624
+++Microsoft.AspNetCore.Session (2.2.0)
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:>1628
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.12)
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:>1625
+++Microsoft.EntityFrameworkCore.Tools (5.0.12)
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:>1629
+++Microsoft.Extensions.Caching.Memory (5.0.0)
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:>1632
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.2)
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:>1630
+++Newtonsoft.Json (13.0.1)
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:>1626
+++serviceDependencies.local.json
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\properties\servicedependencies.local.json
+++dist
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\dist\
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\jquery\dist\
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\jquery\license.txt
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++Data
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\areas\identity\data\
+++Pages
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\areas\identity\pages\
+++IdentityHostingStartup.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\areas\identity\identityhostingstartup.cs
+++jquery.js
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++AppUser.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\areas\identity\data\appuser.cs
+++IdentityContext.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\areas\identity\data\identitycontext.cs
+++Account
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\areas\identity\pages\account\
+++bootstrap-grid.css
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++additional-methods.min.js
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\jquery\dist\jquery.min.map
+++Login.cshtml.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\areas\identity\pages\account\login.cshtml.cs
+++Logout.cshtml.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\areas\identity\pages\account\logout.cshtml.cs
+++Register.cshtml.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\areas\identity\pages\account\register.cshtml.cs
+++RegisterConfirmation.cshtml.cs
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\areas\identity\pages\account\registerconfirmation.cshtml.cs
+++bootstrap.min.css.map
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{2659b7c1-ebb7-4f12-b825-de33758d8b4f}:c:\users\le nhan\source\repos\demo\demo\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
